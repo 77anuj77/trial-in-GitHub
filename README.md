@@ -1,5 +1,6 @@
 # trial-in-GitHub
-author- Anuj Paroha(Father of the world)
+author- Anuj Paroha
+</br>
 This is my first GitHub repository
 </br>
-hellow public (father)
+hellow public
